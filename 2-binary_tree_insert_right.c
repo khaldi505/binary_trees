@@ -24,7 +24,7 @@ return (NULL);
 
 right_node->parent = parent;
 right_node->n = value;
-right_node->right = NULL;
+right_node->left = NULL;
 right_node->right = parent->right;
 parent->right = right_node;
 
