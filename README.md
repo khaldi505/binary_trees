@@ -1,7 +1,7 @@
 # authors are:
 ## Mohamed yassine aboub : 1090@holbertonschool.com
 ## iheb khaldi : 1129@holbertonschool.com
-## General
+# General
 ## What is a binary tree
 ## What is the difference between a binary tree and a Binary Search Tree
 ## What is the possible gain in terms of time complexity compared to linked lists
