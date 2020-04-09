@@ -39,9 +39,12 @@ return (height(tree->left) - height(tree->right));
 
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {
+int left_height, right_height;
 if (!tree)
 return (0);
-if (binary_tree_balance(tree) == 0)
+left_height = height(tree->left);
+right_height = height(tree->right);
+if (binary_tree_balance(tree) == 0 && left_height == right_height)
 return (1);
 
 return (0);
