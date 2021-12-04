@@ -15,9 +15,8 @@
   Find more information [in this simple guide](https://www.freecodecamp.org/news/data-structures-101-binary-search-tree-398267b6bff0/)
 
 #### Binary tree structure
-<br>
   ![alt text](/image/Guide-to-Binary-tree-structure.jpg)
-<br>
+
 
 #### Requirements
 
