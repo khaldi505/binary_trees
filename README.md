@@ -1,10 +1,5 @@
 <h1 align="center">0x1D. C - Binary trees</h1>
 
-<p align="center">
-  <img src='./readme_Media/Holbertonschool.png'></img>
-</p>
-
-
 ### Description
 
 #### General
@@ -20,7 +15,7 @@
   that's mainly made of a Root node that has a pointer
   to a left & right child of root nodes
   you can have at most 2 children in every node
-  ![alt text](./image/Guide-to-Binary-tree-structure.jpeg)
+  ![alt text](/image/Guide-to-Binary-tree-structure.jpeg)
 
 #### Requirements
 ##### Required Code Style.
