@@ -10,7 +10,7 @@
 #### General
   - All functions included in header file called binary_trees.h
   - All files will be compiled on Ubuntu 20.04 LTS using gcc
-  - To compile use the options -Wall -Werror -Wextra -pedantic -std=gnu89 to make finding errors faster & debugguin easier on the long term.
+  - To compile use the options -Wall -Werror -Wextra -pedantic -std=gnu89 to make finding errors faster & debugguin easier.
   - Text editor: VS Code/Emacs
   -   - This project is part of Holberton School low-level and algorithms curriculum.
   - here's other data structures and algorithms related projects [0x1E-search_algorithms](https://github.com/khaldi505/holbertonschool-low_level_programming/tree/master/0x1E-search_algorithms), [sorting_algorithms](https://github.com/amineneifer/holbertonschool-low_level_programming/tree/master/sorting_algorithms), [0x12-singly_linked_lists](https://github.com/khaldi505/holbertonschool-low_level_programming/tree/master/0x12-singly_linked_lists), [0x17-doubly_linked_lists](https://github.com/khaldi505/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists).
