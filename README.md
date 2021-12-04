@@ -11,13 +11,16 @@
   - here's other data structures and algorithms related projects [0x1E-search_algorithms](https://github.com/khaldi505/holbertonschool-low_level_programming/tree/master/0x1E-search_algorithms), [sorting_algorithms](https://github.com/amineneifer/holbertonschool-low_level_programming/tree/master/sorting_algorithms), [0x12-singly_linked_lists](https://github.com/khaldi505/holbertonschool-low_level_programming/tree/master/0x12-singly_linked_lists), [0x17-doubly_linked_lists](https://github.com/khaldi505/holbertonschool-low_level_programming/tree/master/0x17-doubly_linked_lists).
 
 #### What is a binary tree
-  - a Binary Tree is a data structure model that so flexible a
-  that's mainly made of a Root node that has a pointer
-  to a left & right child of root nodes
-  you can have at most 2 children in every node
+  - A BST is considered a data structure made up of nodes, like Linked Lists. These nodes are either null or have references (links) to other nodes. These ‘other’ nodes are child nodes, called a left node and right node. Nodes have values. These values determine where they are placed within the BST.
+  Find more information [in this simple guide](https://www.freecodecamp.org/news/data-structures-101-binary-search-tree-398267b6bff0/)
+
+#### Binary tree structure
+<br>
   ![alt text](/image/Guide-to-Binary-tree-structure.jpg)
+<br>
 
 #### Requirements
+
 ##### Required Code Style.
 the C coding style for Holberton School [Betty linter](https://github.com/holbertonschool/Betty/wiki)
 mainly inspired by the Linux Kernel coding style, but it's slightly modified.
@@ -27,28 +30,13 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 
 
-### Screenshots From the final result
-
-![](./readme_Media/homepage-1.gif)
-![](./readme_Media/search-filter.gif)
-![](./readme_Media/result-list.gif)
-![](./readme_Media/sample_final.png)
-
-### Thoughts about the project
-
-I had a good time working on this & the related previous project
-cause it allowed me to implement what i learned, plus add my touch
-to achieve the expected result
 
 ## Author :black_nib:
 
 - **Iheb Khaldi** - <[khaldi505](https://github.com/khaldi505)>
 - 📫 How to reach me: here's my linkedin account: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="iheb-khaldi-a199b4193"><a class="LI-simple-link" href='https://tn.linkedin.com/in/iheb-khaldi-a199b4193?trk=profile-badge'>iheb khaldi</a></div>
+- **Med yassine aboub** -<[yassineaboub](https://github.com/yassineaboub)>
 
 ## License :lock:
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-
-# authors are:
-## [Med yassine aboub](https://github.com/yassineaboub) and [iheb khaldi](https://github.com/khaldi505/)
